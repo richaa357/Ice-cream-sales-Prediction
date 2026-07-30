@@ -43,20 +43,21 @@ Build a machine learning model that predicts ice cream revenue based on temperat
 
 ![Scatter Plot](images/scatter_plot.png)
 
-### Correlation Heatmap
+### Histogram
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Histogram](images/histogram.png)
 
 ### Box plot
 ![Correlation Heatmap](images/boxplot.png)
 
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### regression line
 ![regession line](images/regression_line(1).png)
 
-### Regression Line
 
-![Regression Line](images/regression_line.png)
 
 ---
 
